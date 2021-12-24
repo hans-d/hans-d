@@ -16,14 +16,14 @@ See:
 - Counter signed: Dec 15, 2021
 - Received counter signed pfd: Dec 21, 2021
 
-## Contributed
+#add which-key-min-column-description-width # Contributed
 
 ### nano-modeline
 - https://github.com/rougier/nano-modeline/pull/17
 - https://github.com/rougier/nano-modeline/pull/18
 - https://github.com/rougier/nano-modeline/pull/19
 
-### which-key
-- https://github.com/justbur/emacs-which-key/pull/328
-- https://github.com/justbur/emacs-which-key/pull/329
-- https://github.com/justbur/emacs-which-key/pull/330
+### [which-key](https://github.com/justbur/emacs-which-key)
+- [add which-key-min-column-description-width #328](https://github.com/justbur/emacs-which-key/pull/328)
+- [add which-key-elipsis #329](https://github.com/justbur/emacs-which-key/pull/329)
+- [add which-key-description-abbreviations #330](https://github.com/justbur/emacs-which-key/pull/330)
