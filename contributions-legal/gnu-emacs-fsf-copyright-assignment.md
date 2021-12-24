@@ -22,3 +22,8 @@ See:
 - https://github.com/rougier/nano-modeline/pull/17
 - https://github.com/rougier/nano-modeline/pull/18
 - https://github.com/rougier/nano-modeline/pull/19
+
+### which-key
+- https://github.com/justbur/emacs-which-key/pull/328
+- https://github.com/justbur/emacs-which-key/pull/329
+- https://github.com/justbur/emacs-which-key/pull/330
