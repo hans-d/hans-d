@@ -18,10 +18,10 @@ See:
 
 #add which-key-min-column-description-width # Contributed
 
-### nano-modeline
-- https://github.com/rougier/nano-modeline/pull/17
-- https://github.com/rougier/nano-modeline/pull/18
-- https://github.com/rougier/nano-modeline/pull/19
+### [nano-modeline](https://github.com/rougier/nano-modeline)
+- [Fix funcall nano-modeline-user-mode #17](https://github.com/rougier/nano-modeline/pull/17) -> [a216375bc03016c5425a85d5f8a1c0781af17725](https://github.com/rougier/nano-modeline/commit/a216375bc03016c5425a85d5f8a1c0781af17725)
+- [Allow additional space to be customised #18](https://github.com/rougier/nano-modeline/pull/18)
+- [available width works with :box #19](https://github.com/rougier/nano-modeline/pull/19)
 
 ### [which-key](https://github.com/justbur/emacs-which-key)
 - [add which-key-min-column-description-width #328](https://github.com/justbur/emacs-which-key/pull/328)
