@@ -22,3 +22,11 @@ See:
 - [Fix funcall nano-modeline-user-mode #17](https://github.com/rougier/nano-modeline/pull/17) -> [a216375bc03016c5425a85d5f8a1c0781af17725](https://github.com/rougier/nano-modeline/commit/a216375bc03016c5425a85d5f8a1c0781af17725)
 - [Allow additional space to be customised #18](https://github.com/rougier/nano-modeline/pull/18)
 - [available width works with :box #19](https://github.com/rougier/nano-modeline/pull/19)
+- [spacer elements in modeline should also get a face #23](https://github.com/rougier/nano-modeline/pull/23)
+- [make available modelines more dynamic #25](https://github.com/rougier/nano-modeline/pull/25)
+- [in default modeline, buffername is more important as mode-name #27](https://github.com/rougier/nano-modeline/pull/27)
+
+### [which-key](https://github.com/justbur/emacs-which-key)
+- [add which-key-min-column-description-width #328](https://github.com/justbur/emacs-which-key/pull/328)
+- [add which-key-elipsis #329](https://github.com/justbur/emacs-which-key/pull/329)
+- [add which-key-description-abbreviations #330](https://github.com/justbur/emacs-which-key/pull/330)
